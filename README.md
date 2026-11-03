@@ -74,3 +74,4 @@ If the app is served by something other than `server.js`, it still works but kee
 | `js/reader.js` | Side-by-side panes, highlighting, connector curves |
 | `js/app.js` | UI wiring: linking flow, popups, library, upload |
 | `js/samples.js` | Demo workspace |
+   Hi
